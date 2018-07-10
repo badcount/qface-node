@@ -1,0 +1,47 @@
+.customer-list {
+  color: white;
+  font-size: 28px;
+  h3 {
+    font-size: 36px;
+  }
+  .list-group-item {
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 0;
+    opacity: 0.3;
+    margin-bottom: 2px;
+    height: 60px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    &.active {
+      opacity: 1;
+      background-color: rgba(0, 0, 0, 0.2);
+      border: 1px solid transparent;
+    }
+    span {
+      margin-left: 10px;
+    }
+  }
+  img.avatar {
+    height: 60px;
+    width: auto;
+  }
+
+  .tier-bronze {
+    color: #cb3c3c;
+    .Oval-2 {
+      width: 26px;
+      height: 26px;
+      background-color: #cb3c3c;
+    }
+  }
+
+  .tier-gold {
+    color: #bfac69;
+    .Oval-2 {
+      width: 26px;
+      height: 26px;
+      background-color: #bfac69;
+    }
+  }
+}

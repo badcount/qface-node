@@ -1,0 +1,26 @@
+.index-monitor video {
+  width: 500px;
+  height: 375px;
+  border-radius: 10px;
+  background-color: #000000; }
+
+.index-monitor .input-control {
+  padding-top: 80px;
+  width: 470px; }
+
+.index-monitor .input-group {
+  border: solid 6px #cccccc;
+  border-radius: 0; }
+
+.index-monitor .input-group-prepend, .index-monitor .input-group-text {
+  background-color: white;
+  border-radius: 0 !important; }
+
+.index-monitor input.form-control {
+  border-radius: 0 !important; }
+
+.index-monitor a {
+  text-decoration: underline;
+  text-align: right;
+  display: block;
+  color: black; }

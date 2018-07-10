@@ -1,0 +1,13 @@
+.confirm-container {
+  background-image: url("landing-bg.png");
+  background-size: cover;
+  height: 100%;
+  padding-top: 150px;
+  padding-left: 0;
+  padding-right: 0; }
+  .confirm-container h1 {
+    font-size: 48px; }
+  .confirm-container p {
+    font-size: 36px; }
+  .confirm-container button.btn {
+    width: 280px; }

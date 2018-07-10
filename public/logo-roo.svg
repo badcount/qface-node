@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="84px" height="73px" viewBox="0 0 84 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Roo-red</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="24.9561532%" y1="49.8759067%" x2="98.0777276%" y2="49.8759067%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EDEDED" stop-opacity="0.282" offset="28.5827463%"></stop>
+            <stop stop-color="#BDBDBD" stop-opacity="0.848" offset="88.6%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.9086034%" y1="50%" x2="54.9086036%" y2="8.01565574%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E0E0E0" stop-opacity="0.2617" offset="51.203092%"></stop>
+            <stop stop-color="#C5C5C5" stop-opacity="0.5493" offset="66.5486203%"></stop>
+            <stop stop-color="#B5B5B5" stop-opacity="0.8047" offset="82.4154944%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0393063584%" y1="50.1715078%" x2="90.0479769%" y2="50.1715078%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F1F1F1" stop-opacity="0.09323102" offset="8.390792%"></stop>
+            <stop stop-color="#D4D4D4" stop-opacity="0.3246" offset="24.8264859%"></stop>
+            <stop stop-color="#C0C0C0" stop-opacity="0.5548" offset="44.5314557%"></stop>
+            <stop stop-color="#B3B3B3" stop-opacity="0.7814" offset="70.32%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OLCI-TT-Review-flights---your-trip" transform="translate(-458.000000, -58.000000)">
+            <g id="Roo-red" transform="translate(458.000000, 58.000000)">
+                <g>
+                    <g id="Roo" fill="#FF0F00">
+                        <path d="M83.1591933,72.2637559 C83.233692,72.3196299 83.3268154,72.3568793 83.4199388,72.3568793 C83.5130622,72.3568793 83.6248103,72.3196299 83.7179337,72.2451312 C83.8855558,72.0775091 83.9041805,71.8167636 83.7365584,71.6305168 C75.4113267,62.8769175 65.2422518,55.8926627 53.8253233,51.2923669 L50.3425083,49.895516 C48.5545391,49.1691535 47.3066855,47.3998089 47.3625596,45.3697189 C47.5488064,37.9198472 65.1863777,39.4284462 66.9743469,35.8525077 L67.2909665,35.2378933 C63.659154,32.1461966 59.3568531,29.799487 54.6075599,28.4957594 C54.5703105,28.6820062 54.4585624,29.5387414 55.4084211,31.1218392 C56.4514031,32.8353097 54.2536909,35.5545129 51.0502461,32.6118135 L50.7895006,32.3696927 C27.4527774,10.9885608 16.6877127,25.1246924 0.85673525,0.27937019 L0.85673525,0.260745511 C0.726362495,0.055874038 0.465616984,-1.83880688e-15 0.260745511,0.130372755 C0.0744987174,0.242120832 0.0186246793,0.465616984 0.0931233967,0.651863777 C12.5902832,30.8238443 38.1433433,24.4169546 41.179166,52.5402204 C41.2909141,53.5645778 42.0731507,54.3840637 43.097508,54.5516858 C57.3081384,56.7866473 71.1276504,62.6347967 83.1591933,72.2637559 L83.1591933,72.2637559 L83.1591933,72.2637559 Z" id="Shape"></path>
+                    </g>
+                    <g id="Roo_Shading">
+                        <path d="M0.875359929,0.27937019 C18.7923015,28.6633815 37.9757212,14.6576226 41.1977907,52.5588451 C38.1805927,24.4355793 12.6089079,30.842469 0.111748076,0.670488457 C0.0372493587,0.484241663 0.0931233967,0.260745511 0.27937019,0.148997435 C0.465616984,0.0186246793 0.726362495,0.0744987174 0.875359929,0.27937019 L0.875359929,0.27937019 L0.875359929,0.27937019 Z" id="Shape" fill="url(#linearGradient-1)" style="mix-blend-mode: darken;"></path>
+                        <path d="M61.7221874,34.8467751 C61.7221874,34.8467751 57.8110047,35.0330219 55.4270457,31.1404639 C56.1347836,32.295194 55.352547,33.9341658 53.7694493,33.9341658 L53.7694493,39.8754385 C56.339655,39.1304513 59.2637297,38.6648343 61.7221874,38.161968 L61.7221874,34.8467751 L61.7221874,34.8467751 Z" id="Shape" fill="url(#linearGradient-2)" style="mix-blend-mode: darken;"></path>
+                        <path d="M46.0402074,55.0731768 C59.2078557,57.6061332 71.965761,63.2866604 83.1405686,72.2637559 C58.2207476,50.9571227 46.8596932,54.8124313 46.0402074,55.0731768 L46.0402074,55.0731768 Z" id="Shape" fill="url(#linearGradient-3)" style="mix-blend-mode: darken;"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+.offers {
+  padding: 30px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.2);
+  font-size: 32px;
+  color: white; }
+  .offers .card {
+    width: 400px;
+    padding: 30px; }
+    .offers .card.offer {
+      color: black; }
+    .offers .card.not-offer {
+      background: transparent;
+      color: white;
+      border-color: white; }
+      .offers .card.not-offer a {
+        color: white !important; }
+        .offers .card.not-offer a:hover {
+          text-decoration: none; }

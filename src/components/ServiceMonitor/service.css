@@ -1,0 +1,14 @@
+.service-monitor video {
+  width: 365.5px;
+  height: 275px;
+  border-radius: 10px;
+  background-color: #000000; }
+
+.service-monitor span {
+  color: white; }
+
+.service-monitor button.btn.restart {
+  position: absolute;
+  width: 270px;
+  margin-top: -65px;
+  margin-left: -125px; }
